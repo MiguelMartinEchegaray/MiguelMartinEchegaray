@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Miguel Martín Echegaray
 
-<#!--
-**MiguelMartinEchegaray/MiguelMartinEchegaray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Soy técnico superior en **Administración de Sistemas Informáticos en Red (ASIR)** y actualmente estoy cursando el **Máster de Ingeniería Multicloud y DevOps en el Instituto Tajamar**.
 
-Here are some ideas to get you started:
+🚀 Me interesa el mundo de la tecnología, la administración de sistemas, la computación en la nube y la automatización de infraestructuras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 En este perfil iré publicando de forma pública mis proyectos, prácticas y trabajos relacionados con mi formación, con el objetivo de compartir lo que voy aprendiendo y seguir desarrollándome profesionalmente.
+
+### 🌱 Actualmente estoy aprendiendo
+
+* ☁️ Cloud Computing (AWS y Azure).
+* ⚙️ DevOps y automatización.
+* 🐧 Administración de sistemas Linux y Windows.
+* 🔄 Integración y entrega continua (CI/CD).
+
+### 📫 ¡Bienvenido a mi perfil!
